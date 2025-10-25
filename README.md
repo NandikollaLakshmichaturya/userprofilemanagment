@@ -1,1 +1,1 @@
-# userprofilemanagment
+**User Profile Management** allows users to create, view, and update their personal information securely. It includes features like profile editing, password management, and data validation. The system ensures a personalized experience while maintaining user privacy and efficient data handling.
